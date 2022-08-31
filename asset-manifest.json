@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/beat-machine/static/css/main.58462fbc.css",
+    "main.js": "/beat-machine/static/js/main.61304844.js",
+    "static/media/Kick.wav": "/beat-machine/static/media/Kick.f61f02d1fe58dc3ff64d.wav",
+    "static/media/Open-Hi-Hat.wav": "/beat-machine/static/media/Open-Hi-Hat.197e1ebb7121beed2f83.wav",
+    "static/media/Floor-Tom.wav": "/beat-machine/static/media/Floor-Tom.002411dd65298f8af62f.wav",
+    "static/media/gravel.png": "/beat-machine/static/media/gravel.5cb1547cf7b5e13ce671.png",
+    "static/media/Snare.wav": "/beat-machine/static/media/Snare.e94cb08758a6b3b1dca8.wav",
+    "static/media/Closed-Hi-Hat.wav": "/beat-machine/static/media/Closed-Hi-Hat.8b2d9ed8d5689e1430f3.wav",
+    "static/media/organic-tiles.png": "/beat-machine/static/media/organic-tiles.9491487e763be9d9201c.png",
+    "index.html": "/beat-machine/index.html",
+    "main.58462fbc.css.map": "/beat-machine/static/css/main.58462fbc.css.map",
+    "main.61304844.js.map": "/beat-machine/static/js/main.61304844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.61304844.js"
+  ]
+}
